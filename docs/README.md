@@ -43,3 +43,12 @@ Example: area(4, 2) = 4
 ### perimeter(a)
 Takes in values `a`, `b`, `c` - lengths of triangle's sides, returns perimeter (= a+b+c); 
 Example: perimeter(4,5,6) = 15
+
+### Commits
+## ed7be8d
+Added program `rectangle.py`, which has functions to find rectangle's area and perimeter.
+## d812b7d 
+Added program `triangle.py`, which has functions to find triangle's area and perimeter.
+Corrected mistake in `rectangle.py`.
+## f51b68f 
+Added most of documentation in program files and README.
