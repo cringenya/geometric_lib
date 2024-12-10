@@ -62,3 +62,7 @@ Added tests to square.py
 Fixed info of README
 ## [41d97c4](https://github.com/cringenya/geometric_lib/commit/41d97c4a39d2b907a515110f30341050bbd597c1)
 Added 2 last commit's info without links to them
+## [f58abe1](https://github.com/cringenya/geometric_lib/commit/f58abe1e39b611b02cc874f1a7fc1d3bbec4e18f)
+Added links for 2 last commits
+## [96b8427](https://github.com/cringenya/geometric_lib/commit/96b8427631f7f56377b48bab4f05aae06a0c9d27)
+Added main.yml to run tests
