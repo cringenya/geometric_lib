@@ -56,3 +56,7 @@ Added most of documentation in program files and README.
 Added info of commits.
 ## [2cd3100](https://github.com/cringenya/geometric_lib/commit/2cd3100c7388fa922ab50d0b352c3fbb9e686727)
 Added links to previous README
+## [d8c969d]
+Added tests to square.py
+## [b8706fe]
+Fixed info of README
